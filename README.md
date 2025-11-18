@@ -38,7 +38,7 @@ The goal is to identify sales trends, product performance, regional contribution
 
 ## 📁 Files Included
 - `Retail_Chocolate_Sales_India_Global.xlsx` — Complete dashboard & dataset  
-- *(Optional)* `dashboard_preview.png` — Dashboard snapshot  
+- * `dashboard_preview.png` — Dashboard snapshot  
 
 ## 🧠 Skills Demonstrated
 - Excel data analytics  
@@ -47,4 +47,4 @@ The goal is to identify sales trends, product performance, regional contribution
 - Business insight storytelling  
 - KPI visualization  
 
-**Author: Sandeep Kumar Reddy Dande**
+**Author: Sandeep Dande**
